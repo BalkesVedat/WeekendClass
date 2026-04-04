@@ -1,0 +1,8 @@
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\MyProjects\Input\bin\Debug\Input.exe.config
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\MyProjects\Input\bin\Debug\Input.exe
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\MyProjects\Input\bin\Debug\Input.pdb
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\MyProjects\Input\obj\Debug\Input.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\MyProjects\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\MyProjects\Input\obj\Debug\Input.exe
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\MyProjects\Input\obj\Debug\Input.pdb
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\MyProjects\Input\obj\Debug\Input.exe.config
