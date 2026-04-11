@@ -1,0 +1,8 @@
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\BasitHesaplar\bin\Debug\BasitHesaplar.exe.config
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\BasitHesaplar\bin\Debug\BasitHesaplar.exe
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\BasitHesaplar\bin\Debug\BasitHesaplar.pdb
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\BasitHesaplar\obj\Debug\BasitHesaplar.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\BasitHesaplar\obj\Debug\BasitHesaplar.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\BasitHesaplar\obj\Debug\BasitHesaplar.exe
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\BasitHesaplar\obj\Debug\BasitHesaplar.pdb
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\BasitHesaplar\obj\Debug\BasitHesaplar.exe.config

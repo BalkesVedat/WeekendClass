@@ -1,0 +1,8 @@
+C:\Users\ARIBILGI\Downloads\WeekendClass-main\WeekendClass-main\KonsolUygulamaları\DeğişkenÇalışma\bin\Debug\DeğişkenÇalışma.exe.config
+C:\Users\ARIBILGI\Downloads\WeekendClass-main\WeekendClass-main\KonsolUygulamaları\DeğişkenÇalışma\bin\Debug\DeğişkenÇalışma.exe
+C:\Users\ARIBILGI\Downloads\WeekendClass-main\WeekendClass-main\KonsolUygulamaları\DeğişkenÇalışma\bin\Debug\DeğişkenÇalışma.pdb
+C:\Users\ARIBILGI\Downloads\WeekendClass-main\WeekendClass-main\KonsolUygulamaları\DeğişkenÇalışma\obj\Debug\DeğişkenÇalışma.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Downloads\WeekendClass-main\WeekendClass-main\KonsolUygulamaları\DeğişkenÇalışma\obj\Debug\DeğişkenÇalışma.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Downloads\WeekendClass-main\WeekendClass-main\KonsolUygulamaları\DeğişkenÇalışma\obj\Debug\DeğişkenÇalışma.exe
+C:\Users\ARIBILGI\Downloads\WeekendClass-main\WeekendClass-main\KonsolUygulamaları\DeğişkenÇalışma\obj\Debug\DeğişkenÇalışma.pdb
+C:\Users\ARIBILGI\Downloads\WeekendClass-main\WeekendClass-main\KonsolUygulamaları\DeğişkenÇalışma\obj\Debug\DeğişkenÇalışma.exe.config
