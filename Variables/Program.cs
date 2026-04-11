@@ -48,9 +48,6 @@ namespace Variables
 
         static void Main(string[] args)
         {
-
-
-
             char karakter = 'a';
             string k = "abcde";
 
@@ -77,15 +74,42 @@ namespace Variables
             car1.Producer = "Mercedes";
             car1.Price = 11500000.50;
             car1.Color = Colors.Black;
-           // car1.Color = (Colors)5;
+            // car1.Color = (Colors)5;
             car1.Model = "S600";
             car1.ProduceYear = 2020;
 
-            
 
-            Console.WriteLine( s1.NameSurname );
+
+            Console.WriteLine(s1.NameSurname);
             Console.BackgroundColor = ConsoleColor.White;
-            Console.WriteLine( car1.Producer + " " + car1.Price);
+            Console.WriteLine(car1.Producer + " " + car1.Price);
+
+
+            // Array : Dizi - İçerisinde aynı tipten birden fazla değeri taşıyabilen yapılardır.
+
+            int[] ogrNotlar = new int[4];
+            string[] ogrenciAdlari = { "Ali", "Ayşe", "Murat", "Turgut" };
+            char[] karakterler = new char[15];
+
+            Student[] ogrenciler = new Student[8];
+
+            ogrNotlar[0] = 25;
+            ogrNotlar[1] = 44;
+            ogrNotlar[2] = 50;
+            ogrNotlar[3] = 100;
+
+            string[] gunler = { "Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar" };
+
+            int sayac = 0;
+
+        tekrar:
+          Console.WriteLine( (sayac+1) + ". öğrencinin ismi:" + ogrenciAdlari[sayac]);
+            sayac++;
+            if (sayac < ogrenciAdlari.Length)
+                goto tekrar;
+
+            
+            Console.ReadKey();
 
 
 

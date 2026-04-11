@@ -6,3 +6,11 @@ C:\Users\ARIBILGI\Downloads\WeekendClass-main\WeekendClass-main\KonsolUygulamala
 C:\Users\ARIBILGI\Downloads\WeekendClass-main\WeekendClass-main\KonsolUygulamaları\Variables\obj\Debug\Variables.exe
 C:\Users\ARIBILGI\Downloads\WeekendClass-main\WeekendClass-main\KonsolUygulamaları\Variables\obj\Debug\Variables.pdb
 C:\Users\ARIBILGI\Downloads\WeekendClass-main\WeekendClass-main\KonsolUygulamaları\Variables\obj\Debug\Variables.exe.config
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\Variables\bin\Debug\Variables.exe.config
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\Variables\bin\Debug\Variables.exe
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\Variables\bin\Debug\Variables.pdb
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\Variables\obj\Debug\Variables.exe.config
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\Variables\obj\Debug\Variables.exe
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\Variables\obj\Debug\Variables.pdb
