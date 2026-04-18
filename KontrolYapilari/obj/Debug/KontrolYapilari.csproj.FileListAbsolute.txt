@@ -1,0 +1,8 @@
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\KontrolYapilari\bin\Debug\KontrolYapilari.exe.config
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\KontrolYapilari\bin\Debug\KontrolYapilari.exe
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\KontrolYapilari\bin\Debug\KontrolYapilari.pdb
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\KontrolYapilari\obj\Debug\KontrolYapilari.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\KontrolYapilari\obj\Debug\KontrolYapilari.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\KontrolYapilari\obj\Debug\KontrolYapilari.exe
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\KontrolYapilari\obj\Debug\KontrolYapilari.pdb
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\KontrolYapilari\obj\Debug\KontrolYapilari.exe.config

@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeğişkenÇalışma", "DeğişkenÇalışma\DeğişkenÇalışma.csproj", "{F268797B-6E73-499A-A66B-8B1D4EAC4DCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KontrolYapilari", "KontrolYapilari\KontrolYapilari.csproj", "{A90D4FC1-75CA-4E67-B8AC-458CA1457165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatorler", "Operatorler\Operatorler.csproj", "{17B7B327-E480-4A49-B4F8-EC710989B888}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{F268797B-6E73-499A-A66B-8B1D4EAC4DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F268797B-6E73-499A-A66B-8B1D4EAC4DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F268797B-6E73-499A-A66B-8B1D4EAC4DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A90D4FC1-75CA-4E67-B8AC-458CA1457165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90D4FC1-75CA-4E67-B8AC-458CA1457165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90D4FC1-75CA-4E67-B8AC-458CA1457165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90D4FC1-75CA-4E67-B8AC-458CA1457165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B7B327-E480-4A49-B4F8-EC710989B888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B7B327-E480-4A49-B4F8-EC710989B888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B7B327-E480-4A49-B4F8-EC710989B888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B7B327-E480-4A49-B4F8-EC710989B888}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

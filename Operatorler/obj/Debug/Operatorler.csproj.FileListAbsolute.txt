@@ -1,0 +1,8 @@
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\Operatorler\bin\Debug\Operatorler.exe.config
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\Operatorler\bin\Debug\Operatorler.exe
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\Operatorler\bin\Debug\Operatorler.pdb
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\Operatorler\obj\Debug\Operatorler.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\Operatorler\obj\Debug\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\Operatorler\obj\Debug\Operatorler.exe
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\Operatorler\obj\Debug\Operatorler.pdb
+C:\Users\ARIBILGI\Desktop\ÖĞRETMEN YEDEK\VEDAT HOCA\Hafta Sonu Akşam\KonsolUygulamaları\Operatorler\obj\Debug\Operatorler.exe.config

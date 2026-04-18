@@ -14,8 +14,7 @@ namespace Değişkenler
             2- Referans Tipli Değişkenler: string, array, class, delegate, interface
 
             1- Değer Tipli Değişkenler: Bu tip değişkenleriçlerinde veri taşırlar. Belleğin "Stack" bölgesinde yaratılırlar.
-                a) Tam sayı tipler:  byte, short, int, long en çok kullanılan tam sayı tiplerdir.
-            
+                a) Tam sayı tipler:  byte, short, int, long en çok kullanılan tam sayı tiplerdir.           
 
             /*
              Referans tipli değişkenler içinde doğrudan veriyi tutmazlar. Verinin heap bellekteki adresini tutarlar. Yani verinin yerini işaret ederler. Bu nedenle bunlara pointer (işaretçi) de denir.
