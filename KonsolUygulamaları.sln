@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KontrolYapilari", "KontrolY
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatorler", "Operatorler\Operatorler.csproj", "{17B7B327-E480-4A49-B4F8-EC710989B888}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Döngüler", "Döngüler\Döngüler.csproj", "{44DD5E4E-53FB-479C-AA26-DD66978687BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{17B7B327-E480-4A49-B4F8-EC710989B888}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17B7B327-E480-4A49-B4F8-EC710989B888}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17B7B327-E480-4A49-B4F8-EC710989B888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44DD5E4E-53FB-479C-AA26-DD66978687BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DD5E4E-53FB-479C-AA26-DD66978687BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DD5E4E-53FB-479C-AA26-DD66978687BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DD5E4E-53FB-479C-AA26-DD66978687BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
