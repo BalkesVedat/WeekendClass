@@ -137,21 +137,64 @@ namespace Döngüler
 
             Console.WriteLine("----------- do while -----------");
 
-            //do
-            //{
-
-            //} while (koşul);
-
             string cevap2="";
 
             do
             {
-                //TODO:Hesap makinası buraya monte edilecek.
+                Console.Clear();
+                Console.Write("Birinci Sayıyı Girin: ");
+                double sayi1 = Convert.ToDouble(Console.ReadLine());
 
-                Console.Write("Devam Etmek istiyor musunuz? (E/H) ");
-                cevap2 = Console.ReadLine().ToUpper();
+                Console.Write("İkinci Sayıyı Girin: ");
+                double sayi2 = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("(+) Toplama");
+                Console.WriteLine("(-) Çıkartma");
+                Console.WriteLine("(*) Çarpma");
+                Console.WriteLine("(/) Bölme");
+
+            oprt:
+                Console.Write("İşlem seçin (+,-,*,/) ? : ");
+
+                string islem = Console.ReadLine();
+                double sonuc = 0;
+
+                switch (islem)
+                {
+                    case "+":
+                        sonuc = sayi1 + sayi2;
+                        break;
+                    case "-":
+                        sonuc = sayi1 - sayi2;
+                        break;
+                    case "*":
+                        sonuc = sayi1 * sayi2;
+                        break;
+                    case "/":
+                        if (sayi2 != 0)
+                            sonuc = sayi1 / sayi2;
+                        break;
+                    default:
+                        Console.WriteLine("Geçersiz seçim");
+                        goto oprt;
+                }
+
+                Console.WriteLine($"{sayi1}{islem}{sayi2}={sonuc}");
+
+            yenicevap:
+                Console.Write("Yeni bir hesaplama yapacak mısınız (E/H) ? : ");
+                 cevap2 = Console.ReadLine().ToUpper();
+
+                if (cevap2 == "H")
+                    Console.WriteLine("Program sonlandı");
+                else if (cevap2 != "E" && cevap2 != "H")
+                {
+                    Console.WriteLine("Hatalı Seçim");
+                    goto yenicevap;
+                }
             } while (cevap2 == "E");
 
+            Console.ReadKey();
 
         }
     }
