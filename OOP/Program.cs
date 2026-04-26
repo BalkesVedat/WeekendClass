@@ -19,18 +19,9 @@ namespace OOP
         White
     }
 
-    class Araba
-    { 
-
-
-    
-    }
-
-
-
     public class Product
     {
-        public int ProductID;
+        public int Productid;
         public string ProductName;
         public string ProductDescription;
         public string ProductCategory;
@@ -52,14 +43,13 @@ namespace OOP
 
     class Ogrenci
     {
-        public int OgrID;
+        public int Ogrid;
         public string SinifSube;
         public string AdSoyad;
         public double NotOrtalamasi;
         public DateTime KayitTarihi;
         public double vizeNotu;
         public double finalNotu;
-
 
         public void OrtalamaHesapla()
         {
@@ -70,11 +60,7 @@ namespace OOP
         {
             Console.WriteLine($"vize:{vize} final:{final} = ortalama:{(vize + final) / 2}");
         }
-
-
     }
-
-
 
     internal class Program
     {
@@ -84,7 +70,7 @@ namespace OOP
 
             Product ürün = new Product();
 
-            ürün.ProductID = 1;
+            ürün.Productid = 1;
             ürün.ProductName = "Tükenmez Kalem";
             ürün.ProductDescription = " kjhgkjdhfgkdfjg kjkjhkdf hgkdhgkjd hkfg hdkgjhd kfg";
             ürün.Price = 50;
@@ -98,7 +84,7 @@ namespace OOP
 
             Product ürün2 = new Product();
 
-            ürün2.ProductID = ürün.ProductID + 1;
+            ürün2.Productid = ürün.Productid + 1;
 
             Console.Write("Ürün Adı : ");
             ürün2.ProductName = Console.ReadLine();
@@ -112,7 +98,7 @@ namespace OOP
 
             Ogrenci o1 = new Ogrenci();
 
-            o1.OgrID = 12312;
+            o1.Ogrid = 12312;
             o1.AdSoyad = "Ali Ak";
             o1.SinifSube = "11B";
             o1.KayitTarihi = DateTime.Now;
@@ -123,6 +109,36 @@ namespace OOP
             o1.OrtalamaHesapla();
 
             o1.OrtalamaHesapla(75, 50);
+
+            Console.WriteLine("-------------------");
+
+            Kamyon k1 = new Kamyon();
+            k1.SetFiyat(-100000);
+            k1._maximumHiz = 1080000000;
+            k1.Sat();
+            Console.WriteLine(k1.GetFiyat());  
+
+            Otobus otobus1 = new Otobus();
+
+            otobus1.SetFiyat(4565666);
+            otobus1.Sat();
+            Console.WriteLine(otobus1.GetFiyat());
+
+            Motorsiklet m1 = new Motorsiklet();
+            m1.marka = "Honda";
+            m1.Sat();
+
+            Otomobil oto1 = new Otomobil();
+
+            oto1.marka = "Mercedes";
+            oto1.SetFiyat(-5000);
+            oto1.Sat();
+
+            Ucak u1 = new Ucak();
+            u1.marka = "Boeing";
+            u1._yolcuSayisi = 1500;
+            Console.WriteLine(u1._yolcuSayisi);
+            u1.Kirala();
 
         }
     }
